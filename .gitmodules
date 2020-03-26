@@ -1,0 +1,6 @@
+[submodule "Verdandi_Code"]
+	path = Verdandi_Code
+	url = https://github.com/ModischFabrications/Verdandi_Code
+[submodule "Verdandi_PCB"]
+	path = Verdandi_PCB
+	url = https://github.com/ModischFabrications/Verdandi_PCB
