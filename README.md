@@ -24,3 +24,6 @@ https://github.com/dheera/shadow-clock
 https://github.com/leonvandenbeukel/Round-LED-Clock
 
 https://learn.adafruit.com/flora-geo-watch
+
+https://www.instructables.com/id/Desktop-Ring-Clock/
+
