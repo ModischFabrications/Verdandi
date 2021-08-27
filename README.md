@@ -10,7 +10,7 @@ This is a supermodule containing different parts:
 
 1. Code: https://github.com/ModischFabrications/Verdandi_Code
 2. PCB: https://github.com/ModischFabrications/Verdandi_PCB
-3. Case: TODO THINGIVERSE
+3. 3D-Printing & Lasercutting: https://www.thingiverse.com/thing:4943201
 
 Be aware that manufacturing and assembly takes at least a full day and ~60€ of materials if you build it yourself. 
 
