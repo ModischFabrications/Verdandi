@@ -69,4 +69,5 @@ These were useful while refining the concept, check them out as well if you are 
 - https://github.com/leonvandenbeukel/Round-LED-Clock
 - https://learn.adafruit.com/flora-geo-watch
 - https://www.instructables.com/id/Desktop-Ring-Clock/
+- https://www.instagram.com/p/BnTqS0NjbXT/
 
